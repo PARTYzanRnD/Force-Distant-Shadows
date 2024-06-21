@@ -1,0 +1,8 @@
+GameProject {
+ ID "ForceDistantShadows"
+ GUID "61AAAB21E4AE945C"
+ TITLE "Force Distant Shadows"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
